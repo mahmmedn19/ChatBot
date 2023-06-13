@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ChatBot</string>
     <string name="type_a_message">ضع سؤالك...</string>
-    <string name="welcom_to_chatbot">Welcom To YouBot</string>
+    <string name="welcom_to_chatbot">Welcome To UBot</string>
 </resources>
