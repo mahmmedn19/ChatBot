@@ -1,4 +1,4 @@
-package com.example.chatbot;
+package com.example.chatbot.data;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;

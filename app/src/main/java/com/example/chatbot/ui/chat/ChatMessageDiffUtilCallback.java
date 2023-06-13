@@ -1,6 +1,8 @@
-package com.example.chatbot;
+package com.example.chatbot.ui.chat;
 
 import androidx.recyclerview.widget.DiffUtil;
+
+import com.example.chatbot.data.ChatMessage;
 
 import java.util.List;
 

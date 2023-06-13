@@ -1,4 +1,4 @@
-package com.example.chatbot;
+package com.example.chatbot.data;
 
 import java.util.List;
 

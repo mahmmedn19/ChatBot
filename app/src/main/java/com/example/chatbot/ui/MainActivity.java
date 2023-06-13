@@ -1,4 +1,4 @@
-package com.example.chatbot;
+package com.example.chatbot.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.example.chatbot.databinding.ActivityMainBinding;
+import com.example.chatbot.ui.chat.ChatScreen;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
