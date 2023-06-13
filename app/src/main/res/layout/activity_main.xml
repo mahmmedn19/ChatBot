@@ -18,7 +18,7 @@
             android:layout_height="wrap_content"
             android:contentDescription="@null"
             android:scaleType="centerCrop"
-            android:src="@drawable/background"
+            android:src="@drawable/bot"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -42,7 +42,6 @@
             android:layout_marginEnd="@dimen/spacing_16"
             android:layout_marginBottom="@dimen/spacing_24"
             android:src="@drawable/icon_add"
-            app:backgroundTint="@color/seed"
             android:contentDescription="@null"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent" />
