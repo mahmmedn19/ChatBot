@@ -1,0 +1,8 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item >
+        <shape android:shape="rectangle">
+            <solid android:color="@color/md_theme_light_primary" /> <!-- Replace with your desired background color when disabled -->
+            <corners android:radius="16dp" /> <!-- Adjust the radius to change the roundness -->
+        </shape>
+    </item>
+</selector>

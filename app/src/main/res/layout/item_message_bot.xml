@@ -1,0 +1,16 @@
+<!-- item_message_bot.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="start"
+    android:padding="@dimen/spacing_12">
+
+    <TextView
+        android:id="@+id/textViewBotMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@drawable/bot_background"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>

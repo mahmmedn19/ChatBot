@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="welcom_to_chatbot">Welcom To ChatBot</string>
+</resources>
